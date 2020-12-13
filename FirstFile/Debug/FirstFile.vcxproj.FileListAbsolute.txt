@@ -1,0 +1,2 @@
+C:\GitProject\project3\FirstFile\Debug\FirstFile.exe
+C:\GitProject\project3\FirstFile\Debug\FirstFile.pdb

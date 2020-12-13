@@ -1,0 +1,2 @@
+C:\GitProject\project3\TwoFile\Debug\TwoFile.exe
+C:\GitProject\project3\TwoFile\Debug\TwoFile.pdb
